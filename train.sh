@@ -1,4 +1,4 @@
-export OPENAI_LOGDIR=/root/autodl-tmp/
+export OPENAI_LOGDIR=/root/autodl-tmp/train
 TRAIN_FLAGS=" \
 --batch_size 12   \
 --image_size 256 \
